@@ -10,8 +10,7 @@
 ## CMS
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/QUKqSLmE7vmZP2PkZk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/crunchyroll-QUKqSLmE7vmZP2PkZk">via GIPHY</a></p>
+  <img height="50" src="https://media1.giphy.com/media/QUKqSLmE7vmZP2PkZk/giphy.gif?cid=ecf05e47k8bgzxlb3ac0urs14ft4jsiymds67034535nqxfu&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 
 <!--
 **mchrzanka/mchrzanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
