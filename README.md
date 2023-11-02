@@ -1,4 +1,5 @@
 # Maya
+#### Hey! I'm an employed ui/ux designer & developer, and I also freelance on the side. I'm always learning and growing my skills! 
 
 <img src="https://media2.giphy.com/media/CpR9lbo8TDUmk/giphy.gif?cid=ecf05e4756axy7nnxh0jrf2k3uv7n5h0y3h14fcukeovgvjb&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
